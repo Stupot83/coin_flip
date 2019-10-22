@@ -1,0 +1,2 @@
+class Scorebook
+end
